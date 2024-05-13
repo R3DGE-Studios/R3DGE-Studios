@@ -12,6 +12,8 @@
 7. RT3DGE-Local-Host (PRIVATE)
 8. RT3DGE-PluginsManager (DEV ONLY)
 9. RT3DGE-ControlPanel (SYSTEM MANGER)
+10. BinIndex (PUBLIC)
+11. RT3DGE-ENCODING (PUBLIC)
 
 ### Sites
 1. r3dge-studios.github.io (INACTIVE)
